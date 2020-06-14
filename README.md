@@ -11,3 +11,14 @@
 
 CocoaHeads – крупнейшее сообщество iOS и macOS разработчиков в мире. Мы видимся раз месяц в офисах IT компаний.
 Интересные доклады, новые знакомства, викторины с призами и невероятная атмосфера – вот это всё и есть CocoaHeads.
+
+### CocoaHeads #0
+- [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%230)
+- [Выступления на Youtube](https://www.youtube.com/playlist?list=PLr0VbEvkos2qHMTulPNOgt4_WHQTJ4KVN)
+
+### CocoaCast #0
+- [Запись митапа на Youtube](https://youtu.be/lPBEl2HU5BM)
+
+### CocoaHeads #1
+- [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%231)
+- [Выступления на Youtube](https://www.youtube.com/watch?v=UMnUxkPRy_o&list=PLr0VbEvkos2p0suDep7QbdXoOfUZwDj7L)
