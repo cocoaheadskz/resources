@@ -17,6 +17,6 @@
 
 
 # SwiftUI в Production
-- [Презентация]()
+- [Презентация](https://github.com/cocoaheadskz/resources/blob/master/CocoaHeads%231/Bekzat%20Turapbekov%20-%20SwiftUI%20в%20Production.pdf)
 
  
