@@ -26,7 +26,7 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 ### CocoaHeads #2
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%232)
 - [Выступления на Youtube](https://www.youtube.com/watch?v=GKktQDNpOUg&list=PLr0VbEvkos2rypMDKQVJKtZ8XZMiUIQ-l)
-- [CI/CD Demo](https://github.com/zhussupov/BitriseDemo)
+- [CD Demo](https://github.com/zhussupov/BitriseDemo)
 
 ### CocoaHeads #3
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%233)

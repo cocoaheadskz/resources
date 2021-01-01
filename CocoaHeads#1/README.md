@@ -15,4 +15,8 @@
 # Flutter, глазами iOS разработки
 - [Презентация](https://github.com/cocoaheadskz/resources/blob/master/CocoaHeads#1/Almas%20Adilbek%20-%20Flutter,%20%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8%20iOS%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.pdf)
 
+
+# SwiftUI в Production
+- [Презентация](https://github.com/cocoaheadskz/resources/blob/master/CocoaHeads%231/Bekzat%20Turapbekov%20-%20SwiftUI%20в%20Production.pdf)
+
  
