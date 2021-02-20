@@ -23,12 +23,24 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%231)
 - [Выступления на Youtube](https://www.youtube.com/watch?v=UMnUxkPRy_o&list=PLr0VbEvkos2p0suDep7QbdXoOfUZwDj7L)
 
+### CocoaCast #1
+- [Выступление на Youtube](https://youtu.be/RNaAFwXgVXg)
+
 ### CocoaHeads #2
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%232)
 - [Выступления на Youtube](https://www.youtube.com/watch?v=GKktQDNpOUg&list=PLr0VbEvkos2rypMDKQVJKtZ8XZMiUIQ-l)
 - [CD Demo](https://github.com/zhussupov/BitriseDemo)
 
+### CocoaCast #2
+- [Выступление на Youtube](https://youtu.be/9c8kQm4yx6I)
+
+### CocoaHeads Kazakhstan Code Review #0
+- [Выступление на Youtube](https://youtu.be/VgYgTc39tJo)
+
 ### CocoaHeads #3
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%233)
-- [Выступления на Youtube](https://youtu.be/9sAkPBOSWUs)
+- [Выступления на Youtube](https://www.youtube.com/watch?v=2PCZ6xNqUCM&list=PLr0VbEvkos2pRza2QKC7E5XEDBoH0jOun)
 
+### CocoaCast #3
+- [Презентация](https://github.com/cocoaheadskz/resources/tree/master/CocoaCast%233)
+- [Выступление на Youtube](https://youtu.be/UrDrLoxjHB8)
