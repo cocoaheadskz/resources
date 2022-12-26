@@ -44,3 +44,6 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 ### CocoaCast #3
 - [Презентация](https://github.com/cocoaheadskz/resources/tree/master/CocoaCast%233)
 - [Выступление на Youtube](https://youtu.be/UrDrLoxjHB8)
+
+### CocoaHeads #5
+- [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%235)
