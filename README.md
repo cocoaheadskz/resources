@@ -47,3 +47,6 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 
 ### CocoaHeads #5
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%235)
+
+### CocoaHeads #6
+- [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%236)
