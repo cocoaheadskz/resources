@@ -34,7 +34,7 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 ### CocoaCast #2
 - [Выступление на Youtube](https://youtu.be/9c8kQm4yx6I)
 
-### CocoaHeads Kazakhstan Code Review #0
+### CocoaHeads Code Review #0
 - [Выступление на Youtube](https://youtu.be/VgYgTc39tJo)
 
 ### CocoaHeads #3
@@ -50,3 +50,6 @@ CocoaHeads – крупнейшее сообщество iOS и macOS разра
 
 ### CocoaHeads #6
 - [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%236)
+
+### CocoaHeads #7
+- [Презентации](https://github.com/cocoaheadskz/resources/tree/master/CocoaHeads%237)
